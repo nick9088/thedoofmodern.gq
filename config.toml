@@ -58,8 +58,8 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "???"
-        url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        name = "Showcase"
+        url = "/showcase/i16n/stocazzo"
 	 [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
