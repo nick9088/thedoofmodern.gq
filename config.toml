@@ -27,8 +27,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "thedoofmodern"
-    subtitle = "sito web in sviluppo"
+    title = "Thedoofmodern"
+    subtitle = "The dev s' homepage"
     keywords = ""
     copyright = "thedoofmodern"
     menuMore = "Show more"
@@ -58,8 +58,8 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        name = "???"
+        url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 	 [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
