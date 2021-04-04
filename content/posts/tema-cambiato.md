@@ -5,5 +5,6 @@ draft: false
 ---
 Si ho fatto veramente questa decisione cambiare il tema del mio sito 
 Se questo tema non vi piace lo posso riportare indietro 
-se volete contattatemi su questo <a href="mailto:thedoofm@gmail.com">indirizzo mail</a>
+se volete contattatemi su questo indirizzo mail
+thedoofm@gmail.com
 
