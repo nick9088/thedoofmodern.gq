@@ -43,6 +43,11 @@ disqusShortname = "idontusedisqus"
     name = "About"
     url = "/about"
     weight = 4
+    
+    [[menu.main]]
+    name = "Watchfaces"
+    url = "/watchfaces"
+    weight = 5
 
 [params]
     since = 2020
