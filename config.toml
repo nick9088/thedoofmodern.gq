@@ -43,14 +43,9 @@ disqusShortname = "idontusedisqus"
     name = "About"
     url = "/about"
     weight = 4
-    
-    [[menu.main]]
-    name = "Watchfaces"
-    url = "/watchfaces"
-    weight = 5
 
 [params]
-    since = 2020
+    since = 2022
     author = "thedoofmodern"               # Author's name
     subtitle = "The h4ck3r s'homepage"       # Subtitle
     cdn_url = ""           # Base CDN URL
@@ -79,7 +74,7 @@ disqusShortname = "idontusedisqus"
     #Linkedin = "xxxx"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
-    #Email   = "xxxx"
+    Email   = "thedoofmod@protonmail.com"
     #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
@@ -188,8 +183,8 @@ clientSecret = "" # Your client secret
   visitor = true
 
 [params.utterances]       # https://utteranc.es/
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
+    owner = "thedoofmodern"              # Your GitHub ID
+    repo = "thedoofmodern/thedoofmodern.gq"               # The repo to store comments
 
 [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
     owner = ""              # Your GitHub ID
