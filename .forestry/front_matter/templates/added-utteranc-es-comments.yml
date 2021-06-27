@@ -8,3 +8,5 @@ fields:
     required: false
   label: helll
   description: test comments down here !!!!
+pages:
+- content/posts/hell.md
